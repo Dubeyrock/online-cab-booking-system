@@ -5,8 +5,13 @@ Description: Online Cab Booking System
 
 The Online Cab Booking System is a user-friendly and efficient platform that enables customers to conveniently book cab services through the internet. With the advent of technology, this system revolutionizes the way people access transportation services by providing a seamless and hassle-free experience.
 
+Description: Online Cab Booking System
+
+The Online Cab Booking System is a user-friendly and efficient platform that enables customers to conveniently book cab services through the internet. With the advent of technology, this system revolutionizes the way people access transportation services by providing a seamless and hassle-free experience.
+
 Key Features:
 
 User Registration and Authentication: The system allows users to create their accounts by registering with their personal details and verifying their identity. This ensures a secure and personalized experience for each customer.
 
 Cab Selection: Customers can choose from a wide range of available cab options, including various categories such as economy, sedan, SUV, luxury, and more. The system displays relevant information about each cab, including its model, fare, seating capacity, and availability.
+
