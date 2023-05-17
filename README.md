@@ -15,3 +15,4 @@ User Registration and Authentication: The system allows users to create their ac
 
 Cab Selection: Customers can choose from a wide range of available cab options, including various categories such as economy, sedan, SUV, luxury, and more. The system displays relevant information about each cab, including its model, fare, seating capacity, and availability.
 
+![Screenshot (1154)](https://github.com/Dubeyrock/online-cab-booking-system/assets/96882359/4b0456b6-7851-4ae6-b880-2cfd13a8a2c6)
